@@ -19,3 +19,7 @@ Wrote this cool function to fill the spinners:
 ![Alt text][def3]
 
 [def3]: <Screen Shot 2023-08-08 at 9.29.56 PM.png>
+
+Break until morning at 10:03 p.m.
+![Alt text](<Screen Shot 2023-08-08 at 10.06.08 PM.png>)
+![Alt text](<Screen Shot 2023-08-08 at 10.06.29 PM.png>)
