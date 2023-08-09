@@ -12,3 +12,10 @@ I've paused at 9:41 p.m. to try to sleep so that I can wake up early and finish 
 [def2]: <Screen Shot 2023-08-07 at 9.43.15 PM.png>
 
 Update, Tuesday, August 08, 2023: It's 12:36 p.m. and I just coded along to the 18:11 point in the video where we check for the bet amount being more than the balance the player has. Last night was another sleepless nigh, and I'm crashing. So I'll pick up where I left off as soon as I am able to do so after involuntarily sleeping soon 😅.
+
+8:38 p.m. -- back at it after a nap (sleep), a walk, and a healthy, light dinner. Started actually at 9:03.
+
+Wrote this cool function to fill the spinners:
+![Alt text][def3]
+
+[def3]: <Screen Shot 2023-08-08 at 9.29.56 PM.png>
