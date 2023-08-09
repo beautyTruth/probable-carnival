@@ -20,6 +20,13 @@ Wrote this cool function to fill the spinners:
 
 [def3]: <Screen Shot 2023-08-08 at 9.29.56 PM.png>
 
-Break until morning at 10:03 p.m.
+Break until morning at 10:03 p.m. <br>
 ![Alt text](<Screen Shot 2023-08-08 at 10.06.08 PM.png>)
 ![Alt text](<Screen Shot 2023-08-08 at 10.06.29 PM.png>)
+
+Up and at 'em at 6:56 a.m., Wednesday, August 09, 2023. I'm going to try to finish this project.
+
+All finished, at about 8:00 a.m.
+![Alt text][def4]
+
+[def4]: <Screen Shot 2023-08-09 at 8.11.28 AM.png>
